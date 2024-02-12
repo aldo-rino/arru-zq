@@ -1,6 +1,6 @@
 ### Hey, I'm Aldo 👋🏻
 
-I'm a 20 years Old developer based in Indonesia and interested about web design-development.
+I am a 20-year-old developer based in Indonesia, with a passion for web design and development.
 
   * Check out my [website](https://) to learn more about me.
   * Explore my [linkedin](https://) for my professional pages.
@@ -17,7 +17,7 @@ I'm a 20 years Old developer based in Indonesia and interested about web design-
 
   * My main gear are Macbook Air M1 and Samsung S23
   * I love using galaxy buds Fe
-  * I'm interested to invest on logitech keyboard
+  * I'm interested in investing in a Logitech keyboard
 
 ## ☎️ Contact
 
